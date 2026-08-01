@@ -46,6 +46,10 @@ Regards,
 Microsoft Security Team
 ```
 
+### Phishing Email
+
+![Email](Screenshots/Phishing_email.png)
+
 ---
 
 # 🔍 Investigation Steps
@@ -90,6 +94,11 @@ Action Required: Verify Your Microsoft 365 Account
 
 **Result:** ⚠️ Suspicious
 
+
+### EML Analyzer
+
+![EML Analyzer](Screenshots/Email_analyzer.png)
+
 ---
 
 ## Step 3 – Analyze Email Body
@@ -123,6 +132,11 @@ https://login-micr0soft-security.com
 |--------------|----------------|
 | https://login.microsoftonline.com | https://login-micr0soft-security.com |
 
+
+### VirusTotal Analysis
+
+![VirusTotal](Screenshots/virustotal_analysis.png)
+
 ### Findings
 
 - Uses a fake Microsoft domain.
@@ -148,6 +162,11 @@ https://login-micr0soft-security.com
 - Header information indicates possible spoofing.
 
 **Result:** ⚠️ Possible Email Spoofing
+
+### Email Header
+
+![Header](Screenshots/Email_headers.png)
+
 
 ---
 
