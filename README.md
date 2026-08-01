@@ -1,4 +1,4 @@
-# cybersecurity-home-lab
+# Cybersecurity-Projects
 
 ## Objective
 
