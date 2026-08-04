@@ -48,7 +48,7 @@ Microsoft Security Team
 
 ### Phishing Email
 
-![Email](Screenshots/Phishing_email.png)
+![Email](screenshots/Phishing_email.png)
 
 ---
 
@@ -97,7 +97,7 @@ Action Required: Verify Your Microsoft 365 Account
 
 ### EML Analyzer
 
-![EML Analyzer](Screenshots/Email_analyzer.png)
+![EML Analyzer](screenshots/Email_analyzer.png)
 
 ---
 
@@ -135,7 +135,7 @@ https://login-micr0soft-security.com
 
 ### VirusTotal Analysis
 
-![VirusTotal](Screenshots/virustotal_analysis.png)
+![VirusTotal](screenshots/virustotal_analysis.png)
 
 ### Findings
 
@@ -165,7 +165,7 @@ https://login-micr0soft-security.com
 
 ### Email Header
 
-![Header](Screenshots/Email_headers.png)
+![Header](screenshots/Email_headers.png)
 
 
 ---
